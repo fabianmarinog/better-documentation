@@ -1,5 +1,5 @@
-# better-documentation
-How to organise and write better documentation
+# Better documentation
+How to organise and write better documentation.
 
 This is the result of an investigation I was part of in my team and I came up with this mind map to take note of how the documentation can be improved. Enjoy!
 
